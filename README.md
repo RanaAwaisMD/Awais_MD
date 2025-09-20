@@ -12,5 +12,6 @@
     <img src="https://files.catbox.moe/5qyy4u.jpg" width="100%" height="auto">
   </a>
 </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
 >
