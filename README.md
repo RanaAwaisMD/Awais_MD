@@ -82,7 +82,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Lady+Bella2+Edition+by+SNOWBIRD👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Awais-MD+Edition+by+SNOWBIRD👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
 </h3>
 
 <p align="center">
