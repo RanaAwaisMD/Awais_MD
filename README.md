@@ -61,6 +61,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 </div>
 
 
+### Join Us
 
 
 
