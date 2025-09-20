@@ -15,3 +15,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=PLEASE+FORK+THE+REPO+FOR+MORE+UPDATES)](https://git.io/typing-svg)
 >
+</details>
+
+---
+
+## 🚀 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏᴘᴛɪᴏɴs
+
+### ⭐ ғᴏʀᴋ & sᴛᴀʀ ʀᴇᴘᴏsɪᴛᴏʀʏ
+ғᴏʀᴋ & sᴛᴀʀ ⭐ ᴛᴏ sᴜᴘᴘᴏʀᴛ sɴᴏᴡʙɪʀᴅ!
+
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/SNOWBIRD0074/Lady-Bella2/fork)
+
+---
+
+### 💙ᴘᴀɪʀ ʏᴏᴜʀ #💚ɢᴇᴛ ᴄʀᴇᴅs ғɪʟᴇ💜
