@@ -6,7 +6,7 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363404284793169@newsletter',
+            newsletterJid: '120363419893616380@newsletter',
             newsletterName: 'Queen Riam',
             serverMessageId: -1
         }
@@ -97,7 +97,7 @@ async function autoStatusCommand(sock, chatId, msg, args) {
                 text: '❌ Invalid command!\n\n📌 *Usage:*\n.autoviewstatus on - Enable auto status view\n.autoviewstatus off - Disable auto status view',
                 ...channelInfo
             });
-        }
+        }7⁸⁸ off
 
     } catch (error) {
         console.error('Error in autostatus command:', error);
