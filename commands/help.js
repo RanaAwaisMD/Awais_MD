@@ -163,8 +163,7 @@
 ╰─✦
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚀𝚄𝙴𝙴𝙽 𝚁𝙸𝙰𝙼*
-
-  `.trim();
+`.trim();
 
         const imageUrl = 'https://files.catbox.moe/im71em.jpg';
         const imagePath = await downloadImage(imageUrl);
