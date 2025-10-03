@@ -6,7 +6,7 @@ const path = require('path');
 async function githubCommand(sock, chatId, message) {
   try {
     // Fetch repo data
-    const res = await fetch('https://api.github.com/repos/Dev-Kango/Queen-Riam');
+    const res = await fetch('https://github.com/RanaAwaisMD/QUEEN-RIAM');
     if (!res.ok) throw new Error('Error fetching repository data');
     const repo = await res.json();
 
