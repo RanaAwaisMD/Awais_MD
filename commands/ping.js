@@ -51,7 +51,7 @@ CPU Speed: *${(cpu.speed / cpus.length).toFixed(2)} MHz*
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: "120363404284793169@newsletter",
+                    newsletterJid: "120363419893616380@newsletter",
                     newsletterName: settings.botName || "Queen Riam",
                     serverMessageId: -1
                 }
