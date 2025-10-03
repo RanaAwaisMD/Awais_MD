@@ -49,32 +49,11 @@ Generate your Session ID to connect your WhatsApp account:
 
 Deploy QUEEN RIAM with one click on any platform below:
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://dashboard.heroku.com/new?template=https://github.com/Dev-Kango/Queen-Riam-" target="_blank">
-        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://railway.app/new" target="_blank">
-        <img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://dashboard.render.com/web/new" target="_blank">
-        <img src="https://img.shields.io/badge/Render-00ffaa?style=for-the-badge&logo=render&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://app.koyeb.com/services/deploy?type=git&repository=Dev-Kango/Queen-Riam-" target="_blank">
-        <img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+<a href="https://dashboard.katabump.com/auth/login#88297d" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+</a>
+</div>
 
 ---
 
