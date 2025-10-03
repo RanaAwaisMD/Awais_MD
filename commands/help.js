@@ -163,3 +163,43 @@
 ╰─✦
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝚀𝚄𝙴𝙴𝙽 𝚁𝙸𝙰𝙼*
+
+  `.trim();
+
+        const imageUrl = 'https://files.catbox.moe/im71em.jpg';
+        const imagePath = await downloadImage(imageUrl);
+        
+        const messageOptions = {
+            contextInfo: {
+                forwardingScore: 999,
+                isForwarded: true,
+                forwardedNewsletterMessageInfo: {
+                    newsletterJid: '120363419893616380@newsletter',
+                    newsletterName: 'Rana-Awais-MD',
+                    serverMessageId: -1
+                }
+            }
+        };
+
+        if (imagePath) {
+            try {
+                messageOptions.image = fs.readFileSync(imagePath);
+                messageOptions.caption = message;
+            } finally {
+                // Clean up the downloaded image
+                fs.unlink(imagePath, () => {});
+            }
+        } else {
+            messageOptions.text = message;
+        }
+
+        await sock.sendMessage(chatId, messageOptions);
+    } catch (error) {
+        console.error('Error in alive command:', error);
+        await sock.sendMessage(chatId, { 
+            text: '╭━━━━━━━━━━━╮\n┃ ❗ Error ┃\n╰━━━━━━━━━━━╯\nBot is active but status unavailable' 
+        });
+    }
+}
+
+module.exports = aliveCommand;
