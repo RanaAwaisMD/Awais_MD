@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Dev-Kango" title="DevKango"><img src="https://img.shields.io/badge/DevKango-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://wa.me/233000000000" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://chat.whatsapp.com/G8aPgC6wMmm1hojFU6qRwF?mode=ems_copy_t" title="Contact on WhatsApp"><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
